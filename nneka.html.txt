@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nneka Godsgift-Ofou</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f7f7f7;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        h1, h2, p {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Nneka Godsgift-Ofou</h1>
+        <p>Microbiologist | Data Engineer | Fashion Entrepreneur | Admin/HR Manager</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            Hello, I'm Nneka Godsgift-Ofou, a scientist and data engineer with a background in microbiology. I've worked in diverse fields, including banking and fashion entrepreneurship. Currently, I serve as an Admin/HR Manager. My passion lies in analyzing health data to make a positive impact.
+        </p>
+    </section>
+
+    <section>
+        <h2>Passions and Hobbies</h2>
+        <p>
+            I have a deep passion for knowledge, learning, science, and health. As a microbiologist and data engineer, I am dedicated to leveraging data for insights in the health domain. Outside of work, you'll find me immersed in books, fulfilling my love for reading. I also have a keen interest in traveling and hope to explore the world once I am financially buoyant enough.
+        </p>
+    </section>
+
+    <footer>
+        <p>Contact: mynekky@gmail.com</p>
+    </footer>
+</body>
+</html>
